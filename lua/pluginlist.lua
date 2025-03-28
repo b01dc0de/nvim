@@ -8,4 +8,8 @@ return {
             vim.cmd("colorscheme nord")
         end
     },
+    ---
+    "williamboman/mason.nvim",
+    "williamboman/mason-lspconfig.nvim",
+    "neovim/nvim-lspconfig",
 }
